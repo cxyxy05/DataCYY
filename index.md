@@ -12,7 +12,7 @@
 <img src="images/Real_Estate.JPG?raw=true"/>
 
 ---
-[Zomato Restuarant Dashboard](/pdf/Zomato.pptx)
+[Zomato Restuarant Dashboard](/pdf/Zomato.pdf)
 <img src="images/Zomato_Dashboard.JPG?raw=true"/>
 
 ---
