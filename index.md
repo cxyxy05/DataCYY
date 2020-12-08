@@ -13,7 +13,7 @@
 
 ---
 [Zomato Restuarant Dashboard](http://example.com/)
-<img src="images/Zomato_Dashboard.jpg"/>
+<img src="images/Zomato_Dashboard.JPG"/>
 
 ---
 
