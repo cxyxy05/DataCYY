@@ -5,11 +5,11 @@
 ### Learning Project Dashboard & Presentation Slides
 
 [Basics of Data](/sample_page)
-<img src="images/Basics_of_Data.jpg?raw=true"/>
+<img src="images/Basics_of_Data.JPG?raw=true"/>
 
 ---
 [Real Estate Dashboard](/pdf/sample_presentation.pdf)
-<img src="images/Real_Estate.jpg?raw=true"/>
+<img src="images/Real_Estate.JPG?raw=true"/>
 
 ---
 [Zomato Restuarant Dashboard](http://example.com/)
