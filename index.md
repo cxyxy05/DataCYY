@@ -8,11 +8,11 @@
 <img src="images/Basics_of_Data.JPG?raw=true"/>
 
 ---
-[Real Estate Dashboard](/sample_page)
+[Real Estate Dashboard](/pdf/Real_Estate_Dashboard.xlsm)
 <img src="images/Real_Estate.JPG?raw=true"/>
 
 ---
-[Zomato Restuarant Dashboard](http://example.com/)
+[Zomato Restuarant Dashboard](/pdf/Zomato.pptx)
 <img src="images/Zomato_Dashboard.JPG?raw=true"/>
 
 ---
