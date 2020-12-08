@@ -4,16 +4,16 @@
 
 ### Learning Project Dashboard & Presentation Slides
 
-[Basics of Data](/sample_page)
+[Basics of Data](/pdf/Basics_of_Data.pdf)
 <img src="images/Basics_of_Data.JPG?raw=true"/>
 
 ---
-[Real Estate Dashboard](/pdf/sample_presentation.pdf)
+[Real Estate Dashboard](/sample_page)
 <img src="images/Real_Estate.JPG?raw=true"/>
 
 ---
 [Zomato Restuarant Dashboard](http://example.com/)
-<img src="images/Zomato_Dashboard.JPG"/>
+<img src="images/Zomato_Dashboard.JPG?raw=true"/>
 
 ---
 
